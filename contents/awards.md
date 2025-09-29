@@ -1,1 +1,2 @@
 -  National Scholarship for Undergraduate and Junior College Students, 2024, 2025.
+-  Silver Medal, 2022 ICPC Eastern-Asia Regional Contest (Hangzhou), 2022.

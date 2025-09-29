@@ -13,4 +13,10 @@ I am admitted by Shanghai Jiao Tong University (SJTU) as a PhD student majoring 
 #### Research Interests
 
 - Computer Architecture
-- Machine Learning Systems
+- Artificial Intelligence Infrastructure
+
+#### Social Position
+
+- President of HBOI Technical Committee (2022.10 - Present)
+- Administrator of Luogu Online Judge (2022.7 - Present)
+- Lecturer of Luogu Netschool (2022.7 - Present)
