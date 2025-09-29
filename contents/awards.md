@@ -1,3 +1,1 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+-  National Scholarship for Undergraduate and Junior College Students, 2024 and 2025.

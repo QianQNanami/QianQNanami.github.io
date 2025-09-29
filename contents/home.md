@@ -1,20 +1,16 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![QianQNanami](https://img.shields.io/badge/QianQNanami-github-blue?logo=github)](https://github.com/QianQNanami)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a bachelor's degree at Huazhong University of Science and Technology (HUST), majoring in Computer Science and Technology. 
+
+I am admitted by Shanghai Jiao Tong University (SJTU) as a PhD student majoring in Computer Science and Technology at School of Computer, starting from September 2026. I am a member of Advanced Computer Architecture Lab (ACA Lab) co-supervised by Prof. Fangxin Liu and Prof. Li Jiang.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>liubainian@hust.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Huazhong University of Science and Technology (HUST)**, Bachelor of Computer Science and Technology (2022.9 – 2026.9(Expected))
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+#### Research Interests
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+- Computer Architecture
+- Machine Learning Systems
