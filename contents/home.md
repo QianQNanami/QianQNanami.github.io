@@ -8,7 +8,7 @@ I am admitted by Shanghai Jiao Tong University (SJTU) as a PhD student majoring 
 <code>liubainian@hust.edu.cn</code>  
 
 #### Education  
-**Huazhong University of Science and Technology (HUST)**, Bachelor of Computer Science and Technology (2022.9 – 2026.9(Expected))
+**Huazhong University of Science and Technology (HUST)**, Bachelor of Computer Science and Technology (2022.9 – 2026.6(Expected))
 
 #### Research Interests
 

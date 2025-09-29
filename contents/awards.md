@@ -1,1 +1,1 @@
--  National Scholarship for Undergraduate and Junior College Students, 2024 and 2025.
+-  National Scholarship for Undergraduate and Junior College Students, 2024, 2025.
